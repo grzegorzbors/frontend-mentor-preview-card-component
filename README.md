@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://grzegorzbors.github.io/frontend-mentor-preview-card-component/)
+- Solution URL: [SOLUTION](https://grzegorzbors.github.io/frontend-mentor-preview-card-component/)
 
 ### Built with
 
