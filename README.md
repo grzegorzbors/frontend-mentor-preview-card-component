@@ -1,14 +1,13 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 
 ### The challenge
 
@@ -23,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://grzegorzbors.github.io/frontend-mentor-preview-card-component/)
+- Solution URL: [3-column Preview Card Component](https://musing-snyder-8ce5b3.netlify.app)
 
 ### Built with
 
@@ -31,4 +30,3 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-  For styles
